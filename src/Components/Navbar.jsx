@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import Logo from '../assets/icons/logo.png'; // update path as needed
+import Logo from '../assets/icons/Logo.png';
+
 
 const Navbar = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
