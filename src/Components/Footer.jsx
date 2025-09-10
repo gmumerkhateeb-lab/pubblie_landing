@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaFacebookF, FaInstagram, FaLinkedinIn } from 'react-icons/fa';
 import { FaYoutube } from 'react-icons/fa6';
-import Logo from '../assets/icons/logo.png'; // update path as needed
+import Logo from '../assets/icons/Logo.png'; // update path as needed
 import Footershadow from '../assets/images/Footershadow.png'; // update path as needed
 
 const Footer = () => {
