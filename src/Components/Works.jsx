@@ -68,7 +68,7 @@ const Works = () => {
 
           {/* Step 01 */}
           <div
-            className="lg:absolute firstquery max-w-[360px] z-10 md:w-[593px]  flex flex-col justify-center md:max-w-none
+            className="lg:absolute firstquery max-w-[360px] z-10 md:w-[593px] mt-5 flex flex-col justify-center md:max-w-none
           md:flex-row-reverse items-center bg-white rounded-[26px] shadow-md px-6 py-6 mx-auto lg:mx-0"
           >
             <div className="flex-shrink-0 mb-4 md:mb-0 md:mr-6 md:ml-6">
